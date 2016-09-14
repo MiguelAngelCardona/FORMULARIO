@@ -1,0 +1,9 @@
+ejemplo {
+border:2px solid #a1a1a1;
+padding:10px 40px;
+width:400px;
+heigth:400px;
+}
+#divradius {
+border-radius:25px;
+}
